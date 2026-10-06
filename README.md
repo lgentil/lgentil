@@ -2,17 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gentil-404584)
 
-Para evitar que o navegador remova a formatação, os símbolos e as quebras de linha ao selecionar com o mouse, utilize exclusivamente o botão **"Copy code"** (ou o ícone de prancheta) localizado no canto superior direito da caixa preta abaixo e cole diretamente no seu GitHub.
-
-```text
-# Luiz Alberto Gentil Mendes
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gentil-404584)
-
-```
-
----
-
 ### 📌 About Me
 
 Quantitative Finance Specialist and Senior Executive with an intersection of mathematical rigor, AI fluency, and deep business insight. Master's degree in Artificial Intelligence from ITA combined with a 20-year trajectory in high-level corporate environments (Aerospace and Defense).
