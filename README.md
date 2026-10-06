@@ -1,7 +1,6 @@
-Luiz Alberto Gentil Mendes
-[
+# Luiz Alberto Gentil Mendes
 
-](https://www.linkedin.com/in/luiz-gentil-404584)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gentil-404584)
 
 📌 About Me
 Quantitative Finance Specialist and Senior Executive with an intersection of mathematical rigor, AI fluency, and deep business insight. Master's degree in Artificial Intelligence from ITA combined with a 20-year trajectory in high-level corporate environments (Aerospace and Defense).
@@ -23,7 +22,6 @@ Long-term, research-driven production systems and capstone quantitative framewor
 
 EPAT Pairs Trading & Statistical Arbitrage
 
-
 Modular framework for statistical arbitrage: cointegration testing, dynamic spread modeling, z-score entry/exit signal generation, and realistic backtesting with transaction costs/slippage.
 
 2. 🔬 Financial Concepts & Data Science Proof-of-Concepts (PoCs)
@@ -34,29 +32,21 @@ Concept & PoC Series (Upcoming): Implementações modulares de conceitos em Data
 3. 🔒 Proprietary Systems & Tailored Institutional Projects
 Advanced, proprietary trading strategies, client modules, and bespoke algorithms maintained in private repositories due to commercial and intellectual property sensitivity (3 active projects).
 
-
-
 Institutional Execution & Position Manager (Private)
 
-
 Stack: MQL5 / C++
-
 
 Overview: High-reliability position and risk management layer for automated execution environments.
 
 Custom Statistical Alpha Pipeline (Private)
 
-
 Stack: Python / SQL
-
 
 Overview: Proprietary multi-asset data streaming, feature extraction, and signal generation pipeline.
 
 Automated Strategy & Hedging Suite (Private)
 
-
 Stack: Python / MetaTrader 5 API
-
 
 Overview: Event-driven hedging algorithm and automated order management.
 
