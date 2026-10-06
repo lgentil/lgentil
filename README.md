@@ -2,25 +2,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gentil-404584)
 
-📌 About Me
+### 📌 About Me
 Quantitative Finance Specialist and Senior Executive with an intersection of mathematical rigor, AI fluency, and deep business insight. Master's degree in Artificial Intelligence from ITA combined with a 20-year trajectory in high-level corporate environments (Aerospace and Defense).
 
 Expert in applying first-principles reasoning, statistical modeling, and AI-enabled analytical practices to untangle complexity in financial structures and asset pricing. Proven track record in developing quantitative models (Python, C++, SQL), stress-testing assumptions via Monte Carlo simulations, and leveraging advanced Excel and AI tools to extract underlying economic logic and drive high-stakes decision-making. Highly adaptable to remote, high-performance environments.
 
-🛠️ Core Tech Stack & Domains
-Quantitative & Financial Modeling: Statistical Arbitrage, Pairs Trading, Asset Pricing, Risk Management, Monte Carlo Simulations.
+### 🛠️ Core Tech Stack & Domains
+* **Quantitative & Financial Modeling: Statistical Arbitrage, Pairs Trading, Asset Pricing, Risk Management, Monte Carlo Simulations.
+* **Languages & Environments: Python, C++, MQL5, SQL.
+* **Data Science & ML: Pandas, NumPy, Scikit-Learn, Statsmodels, Machine Learning.
+* ** Execution & Platforms: MetaTrader 5 (MT5), Interactive Backtesting Engines.
 
-Languages & Environments: Python, C++, MQL5, SQL.
-
-Data Science & ML: Pandas, NumPy, Scikit-Learn, Statsmodels, Machine Learning.
-
-Execution & Platforms: MetaTrader 5 (MT5), Interactive Backtesting Engines.
-
-📂 Featured Projects & Research
+### 📂 Featured Projects & Research
 1. 🚀 End-to-End Quantitative Systems & Comprehensive Frameworks
 Long-term, research-driven production systems and capstone quantitative frameworks.
 
-EPAT Pairs Trading & Statistical Arbitrage
+* **EPAT Pairs Trading & Statistical Arbitrage
 
 Modular framework for statistical arbitrage: cointegration testing, dynamic spread modeling, z-score entry/exit signal generation, and realistic backtesting with transaction costs/slippage.
 
