@@ -1,3 +1,6 @@
+# Luiz Alberto Gentil Mendes
+
+
 📌 About Me
 Quantitative Finance Specialist and Senior Executive with intersection of mathematical rigor, AI fluency, and deep business insight. Master's degree in Artificial Intelligence from ITA combined with a 20-year trajectory in high-level corporate environments (Aerospace and Defense).
 
