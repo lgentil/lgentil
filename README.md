@@ -34,7 +34,7 @@ Modular framework for statistical arbitrage: cointegration testing, dynamic spre
 
 *Focused, atomic repositories demonstrating core statistical tests, machine learning concepts, and financial engineering micro-tools.*
 
-* **Concept & PoC Series (Upcoming)**: Implementações modulares de conceitos em Data Science, microestrutura de mercado, filtros estatísticos e modelagem de séries temporais. *(Em atualização)*
+* **Concept & PoC Series (Upcoming)**: Implementações modulares de conceitos em Data Science, microestrutura de mercado, filtros estatísticos e modelagem de séries temporais. 
 
 ---
 
